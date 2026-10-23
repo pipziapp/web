@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pipzi.tikistudios.io/sitemap.xml
